@@ -16,6 +16,10 @@ dump_images_regex.py
 dupinator.py
 - Remove duplicate files
 
+listclip.py
+- Turns a list of things in your clipboard into a comma separated, quoted list of things and copies it back to your clipboard.
+- Requires clipboard.py (https://pypi.org/project/clipboard/) try 'pip install clipboard'
+
 undeletelast.py
 - [Windows] Restore the last file sent to the Windows Recycle Bin
 
